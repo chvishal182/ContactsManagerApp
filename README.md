@@ -14,11 +14,10 @@ It allows users to view, add, and delete contacts seamlessly, built with modern 
 *   **Modern UI:** Clean interface with edge-to-edge display.
 
 ## Screenshots
-
-![Main Screen](https://github.com/user-attachments/assets/ba445881-a955-4501-b75e-76bf727c2ed7)
-![Add Contact Screen](https://github.com/user-attachments/assets/82db4d7f-b742-45ed-8c30-cd543742cc93)
-![Delete Contact](https://github.com/user-attachments/assets/d64b4caf-3576-4078-ad77-8613867150a7)
-![Undo Delete](https://github.com/user-attachments/assets/88a9a7e3-176b-4c1e-b2c8-64c98ec34558)
+<img src="https://github.com/user-attachments/assets/ba445881-a955-4501-b75e-76bf727c2ed7" alt="Main Screen" width="350"/>
+<img src="https://github.com/user-attachments/assets/82db4d7f-b742-45ed-8c30-cd543742cc93" alt="Add Contact Screen" width="350"/>
+<img src="https://github.com/user-attachments/assets/d64b4caf-3576-4078-ad77-8613867150a7" alt="Delete Contact" width="350"/>
+<img src="https://github.com/user-attachments/assets/88a9a7e3-176b-4c1e-b2c8-64c98ec34558" alt="Undo Delete" width="350"/>
 
 ## Tech Stack & Architecture
 
@@ -45,8 +44,9 @@ It allows users to view, add, and delete contacts seamlessly, built with modern 
 ## Project Structure
 
 The project follows a standard Android project structure with a focus on modularity:
+```
   com.chelv.contactsmanager
-  ├── adapter # RecyclerView Adapters (ContactListAdapter_ v2) 
+  ├── adapter # RecyclerView Adapters (ContactListAdapter_v2) 
   ├── clickHandlers # UI event handlers (MainActivityClickHandlers,  AddNewContactClickHandler) 
   ├── ContactDatabase.java # Room Database setup 
   ├── dao # Data Access Objects for Room (ContactDAO) 
@@ -55,6 +55,7 @@ The project follows a standard Android project structure with a focus on modular
   ├── viewmodel # ViewModels (ContactsViewModal)                           
   ├── MainActivity.java 
   └── AddNewContactActivity. java
+```
 
 
 ## Learning & Best Practices Implemented
