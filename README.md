@@ -16,9 +16,9 @@ It allows users to view, add, and delete contacts seamlessly, built with modern 
 ## Screenshots
 
 [image](https://github.com/user-attachments/assets/ba445881-a955-4501-b75e-76bf727c2ed7)
-![Add Contact Screen](<img width="377" alt="image" src="https://github.com/user-attachments/assets/82db4d7f-b742-45ed-8c30-cd543742cc93" />)
-![Delete Contact](<img width="379" alt="image" src="https://github.com/user-attachments/assets/d64b4caf-3576-4078-ad77-8613867150a7" />)
-![Undo Delete](<img width="407" alt="image" src="https://github.com/user-attachments/assets/88a9a7e3-176b-4c1e-b2c8-64c98ec34558" />)
+[Add Contact Screen](<img width="377" alt="image" src="https://github.com/user-attachments/assets/82db4d7f-b742-45ed-8c30-cd543742cc93" />)
+[Delete Contact](<img width="379" alt="image" src="https://github.com/user-attachments/assets/d64b4caf-3576-4078-ad77-8613867150a7" />)
+[Undo Delete](<img width="407" alt="image" src="https://github.com/user-attachments/assets/88a9a7e3-176b-4c1e-b2c8-64c98ec34558" />)
 
 ## Tech Stack & Architecture
 
